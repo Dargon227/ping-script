@@ -14,10 +14,30 @@ Cuenta con:
 	- Diferencia entre los tres destinos
 - Configuración fácil, probado en Windows 10 y Windows 7
 
-## Ejemplo
-Image:
+## Imagenes
+Archivos:
 
-![](https://github.com/Dargon227)
+![](https://github.com/Dargon227/ping-script/blob/main/img/Screenshot_5.png?raw=true)
+
+------------
+
+Cuando se ejecuta:
+
+![](https://github.com/Dargon227/ping-script/blob/main/img/Screenshot_6.png?raw=true)
+
+------------
+
+Archivo de log, cada vez que lo ejecuta crea dicho archivo con fecha y hora de ejecucción:
+
+![](https://github.com/Dargon227/ping-script/blob/main/img/Screenshot_7.png?raw=true)
+
+------------
+
+Dentro del log te guarda ésto:
+
+![](https://github.com/Dargon227/ping-script/blob/main/img/Screenshot_8.png?raw=true)
+
+------------
 
 ## Instalación
 Para instalar este sencillo script lo que hay que hacer es descargar la última versión **Release**
