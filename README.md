@@ -2,11 +2,6 @@
 Este script está diseñado para Windows, sirve para aquellos problemas que son "A veces".
 
 ------------
-**Tabla de contenidos**
-
-[TOC]
-
-------------
 
 ## Caracteristicas 
 Cuenta con:
@@ -22,9 +17,21 @@ Cuenta con:
 ## Ejemplo
 Image:
 
-![](https://github.com/Dargon227/ping-script/img/1.jpg)
+![](https://github.com/Dargon227)
 
 ## Instalación
+Para instalar este sencillo script lo que hay que hacer es descargar la última versión **Release**
+Para utilizarlo de la forma que está pensada tienen que usar un acceso directo el cual simplemente va a abrir el **CMD** y comenzar a ejecutarlo.
+
+#### Pasos de instalación
+
+1. Descargar la última versión.
+2. Descomprimir en la carpeta que vayamos a utilizar.
+3. Crear un acceso directo.
+	1.Click derecho en el script.
+	2.Click en donde dice "Enviar a" y luego "Escritorio"
+4. Ejecutar el acceso directo.
+
 
 ## Configuración
 
